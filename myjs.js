@@ -1,4 +1,4 @@
-alert('hello shun!');
+alert('hello Shun!');
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(Nath.sqrt(2)+Math.sqrt(3));
